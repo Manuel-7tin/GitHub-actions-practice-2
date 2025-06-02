@@ -39,6 +39,10 @@ Protected branches ensure that collaborators on your repository cannot make irre
 1. Click **Create**.
 1. _Once you turn on branch protection, Actions can no longer push directly to the `main` branch. Wait about 20 seconds and then go to the `ci` branch. [GitHub Actions](https://docs.github.com/actions) will automatically update to the next step on the `ci` branch. You'll need to follow instructions on this branch._
 
+### This is just me keeping this link for later
+
+1. [Dataset on health risk to train my next ML project](https://www.kaggle.com/datasets/alekhyaabburi/healthcare) _Date added: 2nd. June, 2025_
+
 <footer>
 
 <!--
