@@ -25,11 +25,10 @@ public static class Sorter<T>
     }
 }
 
-public class HelloWorld
+public class Assignment
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine ("Try programiz.pro");
         List<int> numbers = new List<int> { 5, 2, 9, 1, 3 };
         Sorter<int>.Sort(numbers);  // Ascending
         foreach (var number in numbers)
